@@ -1,0 +1,1 @@
+from .binary_image_rec import BinaryRec # from <python_file without py> import <class name>
